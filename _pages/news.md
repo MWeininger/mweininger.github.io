@@ -5,7 +5,11 @@ title: "News"
 
 [comment]: # (AI-FM workshops: 21.10.-23.10.24; 04.-07.03.25; 09.-11.07.25)
 
-- August'25: Served as member of the AAAI'26 program committee
+- February'26: Serving as member of the [CAV'26 program committee](https://conferences.i-cav.org/2026/organization/)
+- December'25: Paper accepted at [AAMAS'26](https://cyprusconferences.org/aamas2026/accepted-research-track/)
+	* Miriam Schäfers, Merlijn Krale, Thiago D. Simao, Nils Jansen, Maximilian Weininger: Perception-Based Beliefs for POMDPs with Visual Observations [(preprint)](https://arxiv.org/abs/2602.05679)
+- December'25: Organized the fourth AI-FM workshop in Bochum
+- August'25: Serving as member of the AAAI'26 program committee
 - July'25: Organized the third AI-FM workshop in Bochum
 - June'25: Two papers accepted at [QEST+FORMATS'25](https://www.qest-formats.org/):
 	* Carlos E. Budde, Arnd Hartmanns, Tobias Meggendorfer, Maximilian Weininger, and Patrick Wienhöft. Statistical Model Checking Beyond Means: Quantiles, CVaR, and the DKW Inequality 
