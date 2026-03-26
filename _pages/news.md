@@ -5,6 +5,9 @@ title: "News"
 
 [comment]: # (AI-FM workshops: 21.10.-23.10.24; 04.-07.03.25; 09.-11.07.25)
 
+- March'26: Co-organized [AQUARIUM](https://wp.lancs.ac.uk/aquarium-workshop/), the 1st Workshop on Automated Quantification of Risk in Uncertain Models
+- March'26: The [The revised practitioner’s guide to MDP model checking algorithms](https://link.springer.com/article/10.1007/s10009-026-00848-y) in the TACAS 2023 special issue published in STTT is available online.
+- February'26: Invited talk "How can sampling paths help solving Markov decision processes" in the Seminar for Formal Methods & Machine Learning of the TU Graz
 - February'26: Serving as member of the [CAV'26 program committee](https://conferences.i-cav.org/2026/organization/)
 - December'25: Paper accepted at [AAMAS'26](https://cyprusconferences.org/aamas2026/accepted-research-track/)
 	* Miriam Schäfers, Merlijn Krale, Thiago D. Simao, Nils Jansen, Maximilian Weininger: Perception-Based Beliefs for POMDPs with Visual Observations [(preprint)](https://arxiv.org/abs/2602.05679)
