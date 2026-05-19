@@ -5,6 +5,8 @@ title: "News"
 
 [comment]: # (AI-FM workshops: 21.10.-23.10.24; 04.-07.03.25; 09.-11.07.25)
 
+- May'26: Paper accepted at [IJCAI'26](https://2026.ijcai.org/)
+	* Joshua Wendland, Markel Zubia, Roman Andriushchenko, Maris F. L. Galesloot, Milan Ceska, Henrik von Kleist, Thiago D. Simao, Maximilian Weininger, Nils Jansen: Missingness-MDPs: Bridging the Theory of Missing Data and POMDPs [(preprint)](https://arxiv.org/abs/2605.12262)
 - March'26: Co-organized [AQUARIUM](https://wp.lancs.ac.uk/aquarium-workshop/), the 1st Workshop on Automated Quantification of Risk in Uncertain Models
 - March'26: The [The revised practitioner’s guide to MDP model checking algorithms](https://link.springer.com/article/10.1007/s10009-026-00848-y) in the TACAS 2023 special issue published in STTT is available online.
 - February'26: Invited talk "How can sampling paths help solving Markov decision processes" in the Seminar for Formal Methods & Machine Learning of the TU Graz
