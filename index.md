@@ -13,5 +13,5 @@ In November 2026, I will start developing safe and efficient traffic light contr
 
 For more information about me, you can check out:
 - my [publications on dblp](https://dblp.org/pid/194/2910.html),
-- my [CV and publication list](/assets/cv-weininger-12-10-26) (last updated October 2026),
+- my [CV and publication list](/assets/cv-weininger-12-10-26.pdf) (last updated October 2026),
 - or [my thesis](https://mediatum.ub.tum.de/1661588) which summarizes the major research directions I pursue.
