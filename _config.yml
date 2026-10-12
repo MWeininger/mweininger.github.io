@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Maximilian Weininger
-email: maximilian.weininger@rub.de
+email: maxi.weininger@tum.de
 description: >- # this means to ignore newlines until "baseurl:"
   Dr. Maximilian Weininger's Webpage
 twitter_username: 
@@ -60,12 +60,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Theoretical computer scientist researching formal verification of safety-critical systems."
   links:
-    - label: "Ruhr-University Bochum"
+    - label: "Bernard Technologies"
       icon: "fa fa-fw fa-map-marker"
-      url: "https://informatik.rub.de/en/research/chairs/aifm/"
+      url: "https://www.bernard-gruppe.com/en/tec/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:maximilian.weininger@rub.de"
+      url: "mailto:maxi.weininger@tum.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=88fkEooAAAAJ&hl=en"
