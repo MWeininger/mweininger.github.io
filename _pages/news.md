@@ -5,6 +5,12 @@ title: "News"
 
 [comment]: # (AI-FM workshops: 21.10.-23.10.24; 04.-07.03.25; 09.-11.07.25)
 
+- October'26: Organized [ROCKS'26](https://www.modestchecker.net/rocks2026/)
+- August'26: Serving as member of the AAAI'27 program committee
+- July'26: Two papers accepted at [FMCAD'26](https://fmcad.forsyte.at/FMCAD26/):
+	* Tereza Kinská, Jan Kretinsky, Tobias Meggendorfer, Sabine Rieder, Maximilian Weininger: dtControl2+epsilon: Trading Optimality for Explainability in MDPs via Decision Trees [(preprint)](https://arxiv.org/abs/2607.25925)
+	* Jule Schmidt, Maximilian Weininger, Clemens Dubslaff, David Parker, Nils Jansen: Property-driven Causal Abstractions for Markov Decision Processes [(preprint)](https://arxiv.org/abs/2607.26787)
+- July'26: Co-organized Dagstuhl Research Meeting ["Challenges in Robust Decision-Making Under Uncertainty"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26303#)
 - May'26: Paper accepted at [IJCAI'26](https://2026.ijcai.org/)
 	* Joshua Wendland, Markel Zubia, Roman Andriushchenko, Maris F. L. Galesloot, Milan Ceska, Henrik von Kleist, Thiago D. Simao, Maximilian Weininger, Nils Jansen: Missingness-MDPs: Bridging the Theory of Missing Data and POMDPs [(preprint)](https://arxiv.org/abs/2605.12262)
 - April'26: Organized the fifth AI-FM workshop in Bochum
@@ -19,17 +25,17 @@ title: "News"
 - July'25: Organized the third AI-FM workshop in Bochum
 - June'25: Two papers accepted at [QEST+FORMATS'25](https://www.qest-formats.org/):
 	* Carlos E. Budde, Arnd Hartmanns, Tobias Meggendorfer, Maximilian Weininger, and Patrick Wienhöft. Statistical Model Checking Beyond Means: Quantiles, CVaR, and the DKW Inequality 
-	* Tobias Meggendorfer, Maximilian Weininger, and Patrick Wienhöft. What Are the Odds? Improving Statistical Model Checking of Markov Decision Processes	[(preprint)](https://arxiv.org/abs/2404.05424)
+	* Tobias Meggendorfer, Maximilian Weininger, Patrick Wienhöft. What Are the Odds? Improving Statistical Model Checking of Markov Decision Processes	[(preprint)](https://arxiv.org/abs/2404.05424)
 - April'25: Two papers accepted at [LICS'25](https://lics.siglog.org/lics25/accepted.php): 
-	* Thomas Brihaye, Krishnendu Chatterjee, Stefanie Mohr, and Maximilian Weininger. Risk-aware Markov Decision Processes Using Cumulative Prospect Theory [(preprint)](https://arxiv.org/abs/2505.09514)
-	* Marta Grobelna, Jan Kretinsky, and Maximilian Weininger. Stopping Criteria for Value Iteration on Concurrent Stochastic Reachability and Safety Games [(preprint)](https://arxiv.org/abs/2505.21087)
+	* Thomas Brihaye, Krishnendu Chatterjee, Stefanie Mohr, Maximilian Weininger. Risk-aware Markov Decision Processes Using Cumulative Prospect Theory [(preprint)](https://arxiv.org/abs/2505.09514)
+	* Marta Grobelna, Jan Kretinsky, Maximilian Weininger. Stopping Criteria for Value Iteration on Concurrent Stochastic Reachability and Safety Games [(preprint)](https://arxiv.org/abs/2505.21087)
 - April'25: Presentations at Storm-days and [ROCKS'25](https://www.modestchecker.net/rocks2025/).
 - April'25: Paper accepted in the STTT invited special issue of TACAS'23:
-	* Arnd Hartmanns, Sebastian Junges, Tim Quatmann, and Maximilian Weininger: Revised Practitioner's Guide to MDP Model Checking Algorithms [(preprint)](https://sjunges.github.io/files/revised_practitioners_guide.pdf).
+	* Arnd Hartmanns, Sebastian Junges, Tim Quatmann, Maximilian Weininger: Revised Practitioner's Guide to MDP Model Checking Algorithms [(preprint)](https://sjunges.github.io/files/revised_practitioners_guide.pdf).
 - March'25: Started as a PostDoc in the [AI-FM group](https://informatik.rub.de/en/research/chairs/aifm/) lead by [Nils Jansen](https://nilsjansen.org/) at the [Ruhr-University Bochum](https://informatik.rub.de/en/).
 - February'25: Paper "Sound Statistical Model Checking for Probabilities and Expected Rewards" selected as ETAPS distinguished paper.
 - December'24: Paper accepted at [AAAI'25](https://aaai.org/conference/aaai/aaai-25/):
-	* Tobias Meggendorfer, Maximilian Weininger, and Patrick Wienhöft. Solving Robust Markov Decision Processes: Generic, Reliable, Efficient [(preprint)](https://arxiv.org/abs/2412.10185)
+	* Tobias Meggendorfer, Maximilian Weininger, Patrick Wienhöft. Solving Robust Markov Decision Processes: Generic, Reliable, Efficient [(preprint)](https://arxiv.org/abs/2412.10185)
 - December'24: Two papers accepted at [TACAS'25](https://etaps.org/2025/conferences/tacas/):
-	* Krishnendu Chatterjee, Tim Quatmann, Maximilian Schäffeler, Maximilian Weininger, Tobias Winkler, and Daniel Zilken. Fixed Point Certificates for Reachability and Expected Rewards in MDPs [(preprint)](https://arxiv.org/abs/2501.11467)
-	* Carlos E. Budde, Arnd Hartmanns, Tobias Meggendorfer, Maximilian Weininger, and Patrick Wienhöft. Sound Statistical Model Checking for Probabilities and Expected Rewards [(preprint)](https://arxiv.org/abs/2411.00559)
+	* Krishnendu Chatterjee, Tim Quatmann, Maximilian Schäffeler, Maximilian Weininger, Tobias Winkler, Daniel Zilken. Fixed Point Certificates for Reachability and Expected Rewards in MDPs [(preprint)](https://arxiv.org/abs/2501.11467)
+	* Carlos E. Budde, Arnd Hartmanns, Tobias Meggendorfer, Maximilian Weininger, Patrick Wienhöft. Sound Statistical Model Checking for Probabilities and Expected Rewards [(preprint)](https://arxiv.org/abs/2411.00559)
