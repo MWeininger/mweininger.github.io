@@ -6,11 +6,10 @@
 - _site: html that is actually displayed, created automatically by jekyll from the sources
 - assets: Put pictures and pdfs here.
 - _config.yml: Side bar and some page info is in here.
-- index.md: Not sure if relevant. Either this or _pages/about.md is read for the initial webpage.
+- index.md: Relevant. Either this or _pages/about.md is read for the initial webpage.
 - <rest>: don't touch.
 
 # How to Push New Changes
 
 1. Modify site content (likely _pages/<sth>.md)
-2. Execute ... (or maybe that is not even needed)
-3. Push
+2. Push
