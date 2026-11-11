@@ -5,6 +5,8 @@ title: "News"
 
 [comment]: # (AI-FM workshops: 21.10.-23.10.24; 04.-07.03.25; 09.-11.07.25)
 
+- November'26: The ERC Proof of Concept Grant Pro-DEUCE which I co-wrote [was accepted](https://www.linkedin.com/feed/update/urn:li:activity:7523744198181920769/)
+- November'26: Started as Project Engineer at [BERNARD Technologies](https://www.bernard-gruppe.com/en/tec/) in Munich
 - October'26: Organized [ROCKS'26](https://www.modestchecker.net/rocks2026/)
 - August'26: Serving as member of the AAAI'27 program committee
 - July'26: Two papers accepted at [FMCAD'26](https://fmcad.forsyte.at/FMCAD26/):
